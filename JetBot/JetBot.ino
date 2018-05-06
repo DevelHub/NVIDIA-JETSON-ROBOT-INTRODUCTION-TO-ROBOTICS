@@ -1,6 +1,6 @@
 #include <DualVNH5019MotorShield.h>
 
-//library location /usr/share/arduino/libraries 
+//Bluetooth, motor, and sonar
 
 DualVNH5019MotorShield md;
  
