@@ -1,6 +1,6 @@
 #include <DualVNH5019MotorShield.h>
 
-//Bluetooth, motor, and sonar
+//Bluetooth, motor, and sonar fusion
 
 DualVNH5019MotorShield md;
  
